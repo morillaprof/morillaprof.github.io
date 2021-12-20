@@ -3,19 +3,19 @@
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Pruebas sindicación</title>
-    <link>https://morillaprof.000webhostapp.com/</link>
+    <link>https://morillaprof.github.io/</link>
     <description />
     <language>en-us</language>
     <item>
       <title>3 Consejos para hacer páginas web bien</title>
       <pubDate>Wed, 1 Dec 2021 18:05:47 +0100</pubDate>
-      <link>https://morillaprof.000webhostapp.com/paginas/p2.html</link>
+      <link>https://morillaprof.github.io//paginas/p2.html</link>
       <description><![CDATA[1. No te limites a herramientas visuales]]></description>
     </item>
     <item>
       <title>Cómo hacer una página web con HTML</title>
       <pubDate>Wed, 1 Dec 2021 18:05:22 +0100</pubDate>
-      <link>https://morillaprof.000webhostapp.com/paginas/p1.html</link>
+      <link>https://morillaprof.github.io/paginas/p1.html</link>
       <description><![CDATA[En el post de hoy voy a enseñarte cómo hacer una página web con HTML, pero antes …]]></description>
     </item>
   </channel>
